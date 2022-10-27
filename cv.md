@@ -87,7 +87,10 @@ Architect-Engineer, Expert in Art Criticism in Architectural Design Field, with 
 - Computer Numerical Control
 
 ---
-
+### **project example**
+##### Pet_Story webpages from Rsschool community training: [Link>>](https://osama-arch.github.io/Pet_Story/src/main/)
+##### Lucky Shrub Retail from Meta Front-End Developer Professional Certificate: [Link>>](https://osama-arch.github.io/meta-portfolio/index.html)
+---
 ### **Code example**
 
 **Walk the Object Path KATA from CODEWARES:** _Implement the method find which takes in an two parameters object and path. The path will be a period-delimited string of properties that we will use to traverse through our object to find our target value._
