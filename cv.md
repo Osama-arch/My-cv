@@ -64,10 +64,10 @@ Architect-Engineer, Expert in Art Criticism in Architectural Design Field, with 
   ##### Meta-Coursera - Aug 24, 2022 [Link>>](https://coursera.org/share/555c35d3d3f0f3633ba6d80ac34e7574)
   
 - #### HTML and CSS in depth
-- ##### Meta-Coursera - October 26, 2022 [Link>>](https://coursera.org/share/f4b071d754e6e0f248719f404591cd43)
+  ##### Meta-Coursera - October 26, 2022 [Link>>](https://coursera.org/share/f4b071d754e6e0f248719f404591cd43)
 
 -  Programming with JavaScript
--  ##### Meta-Coursera -September 20, 2022 [Link>>](https://coursera.org/share/10562162660ee15beff07a8a26fa3d9c)
+   ##### Meta-Coursera -September 20, 2022 [Link>>](https://coursera.org/share/10562162660ee15beff07a8a26fa3d9c)
 
 - #### Responsive Web Design
 
